@@ -31,7 +31,7 @@ To play the "Roll the Dice" game, follow these steps:
 5. When the user decides to stop rolling, the game will end.
 
 
-## Contributing
+# Contributing
 
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
 
