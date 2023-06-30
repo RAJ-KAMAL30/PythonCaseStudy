@@ -4,6 +4,13 @@
 # Roll the Dice Game
 This is a simple Python implementation of the "Roll the Dice" game. In this game, a dice with six faces is rolled, and a random number between 1 and 6 is obtained. The game allows the user to roll the dice repeatedly as desired.
 
+## Prerequisites
+
+To run this project, you need to have the following prerequisites installed on your system:
+
+- Python: Ensure that Python is installed on your system. You can download Python from the official website: <a src="https://www.python.org/downloads/"></a>
+
+
 # Implementation
 The game is implemented using the random module in Python, which provides functions for generating random numbers. Two functions, `randint()` and `choice()`, are used in this implementation.
 
@@ -23,9 +30,6 @@ To play the "Roll the Dice" game, follow these steps:
 4. Steps 2-4 will be repeated as long as the user wants to roll the dice again.
 5. When the user decides to stop rolling, the game will end.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Contributing
 
