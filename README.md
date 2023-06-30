@@ -8,7 +8,7 @@ This is a simple Python implementation of the "Roll the Dice" game. In this game
 
 To run this project, you need to have the following prerequisites installed on your system:
 
-- Python: Ensure that Python is installed on your system. You can download Python from the official website: <a src="https://www.python.org/downloads/"></a>
+- Python: Ensure that Python is installed on your system. You can : <a href="https://www.python.org/downloads/">download Python from the official website</a>
 
 
 # Implementation
